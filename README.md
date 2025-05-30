@@ -1,5 +1,5 @@
 
-# Multi-modal omics integration to study hematopoietic stem cell (HSC) engraftment potential**
+# Multi-modal omics integration to study hematopoietic stem cell (HSC) engraftment potential
 
 ## Project Summary
 
