@@ -1,4 +1,3 @@
-# spatial-engraftomics
 
 **Multi-modal omics integration to study hematopoietic stem cell (HSC) engraftment potential**
 
